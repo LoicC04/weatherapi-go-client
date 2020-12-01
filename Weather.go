@@ -2,8 +2,8 @@ package weather_client
 
 import (
 	"bytes"
-	"carneyandco.fr/weather-client/model"
 	"encoding/json"
+	"github.com/LoicC04/weatherapi-go-client/model"
 	"io/ioutil"
 	"log"
 	"net/http"
